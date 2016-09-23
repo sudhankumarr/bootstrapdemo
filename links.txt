@@ -1,0 +1,4 @@
+ngSanitize:
+--------------
+http://odetocode.com/blogs/scott/archive/2014/09/10/a-journey-with-trusted-html-in-angularjs.aspx
+-----------------------------------------------------------------------------------------------------------------------
